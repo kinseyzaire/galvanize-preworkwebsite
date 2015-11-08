@@ -1,0 +1,27 @@
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+.leftSide {
+	padding-left: 325px;
+	width: 50%;
+	float: left;
+	display: inline;
+}
+
+.postButton {
+	display: none;
+}
+
+.initial {
+	display: inline;
+}
+
+* {
+	background-color: #FAEBD7;
+	font-family: Arial;
+}
